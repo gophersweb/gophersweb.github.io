@@ -2,12 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gophers</title>
-    <link>https://themes.gohugo.io/theme/hugo-theme-lean-launch-page/tags/</link>
+    <link>https://gophersweb.github.io/tags/</link>
     <description>Recent content in Tags on Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://themes.gohugo.io/theme/hugo-theme-lean-launch-page/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <atom:link href="https://gophersweb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
