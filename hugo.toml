@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gophersweb.github.io/'
 languageCode = 'en-us'
 title = "Gophers"
 author = "The Golang Guild"
